@@ -26,7 +26,9 @@ For example, if you want to record temperature for 10 hours. you can just:
 in gatttool. '5802' came from 10 hours, which is 600 minutes, which is 0x258 in hex, which is 5802 because gatttool requires this order.
 
 When you want to see recorded temperature, you can just:
+
     char-read-hnd 0x0021
+    
 The result also requires a swap between high and low bytes in each temperature data.
 
 
