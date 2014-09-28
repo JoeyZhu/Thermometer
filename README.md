@@ -31,4 +31,5 @@ The result also requires a swap between high and low bytes in each temperature d
 
 
 All the hardware costs about 10 dollars in China. I also open-sourced hardware at:
-countemp.strikingly.com . You can make one by yourself or buy one if you like.
+
+http://countemp.strikingly.com
