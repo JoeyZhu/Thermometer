@@ -34,4 +34,4 @@ The result also requires a swap between high and low bytes in each temperature d
 
 All the hardware costs about 10 dollars in China. I also open-sourced hardware at:
 
-http://countemp.strikingly.com
+http://minimeter.strikingly.com
